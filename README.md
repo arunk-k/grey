@@ -58,7 +58,7 @@ npm run dev
 ### Books Page
 ![Books Page](./screenshots/home-booksPage.png)
 
-### Logged In Home Page
+### Logged In Books Page
 ![Logged In Home Page/Books Page](./screenshots/loggedInHomePage.png)
 
 ### Login Page
